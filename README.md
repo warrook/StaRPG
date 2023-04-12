@@ -27,7 +27,7 @@ For this game, there could be regardless of theme:
 - A creativity stat, such as Creativity, Inspiration.
 - A knowledge stat, such as Knowledge, History, Learning.
 
-Chelsea suggested a high school (anime or not) theme. Were that the case, stats could be based on classes.
+Kitty suggested a high school (anime or not) theme. Were that the case, stats could be based on classes.
 
 > [*Daily Life in Japanese High Schools*, Stanford](https://spice.fsi.stanford.edu/docs/daily_life_in_japanese_high_schools#:~:text=Students%20in%20academic%20high%20schools,level%20study%20the%20same%20subjects.)
 >
